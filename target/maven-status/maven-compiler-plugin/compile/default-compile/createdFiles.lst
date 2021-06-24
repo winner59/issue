@@ -1,0 +1,11 @@
+anticorona\config\kafka\KafkaProcessor.class
+anticorona\Issue.class
+anticorona\Applied.class
+anticorona\IssueApplication.class
+anticorona\PolicyHandler.class
+anticorona\IssueController.class
+anticorona\Issued.class
+anticorona\AbstractEvent$1.class
+anticorona\AbstractEvent.class
+anticorona\ApplyingCancelled.class
+anticorona\IssueRepository.class
